@@ -1,7 +1,7 @@
 # Power-BI-Grocery-Store-Project-Dashboard-
 Grocery Store Power BI Project
 
-This project is a comprehensive analysis of a grocery store's operations using Power BI, designed as part of a self-learning process provided by the institute. It focuses on uncovering actionable insights in sales, customer behavior, and product performance to better understand business dynamics.
+This project is a comprehensive analysis of a grocery store's operations using Power BI, designed as part of a self-learning process. It focuses on uncovering actionable insights in sales, customer behavior, and product performance to better understand business dynamics.
 
 Key Features:
 Sales Insights:
